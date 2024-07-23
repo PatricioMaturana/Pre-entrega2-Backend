@@ -1,0 +1,173 @@
+[
+  {
+      "id": 1,
+      "title": "El enigma sagrado",
+      "description": "Enigmas históricos",
+      "code": "1",
+      "price": 40000,
+      "stock": 2,
+      "category": "Misterio histórico",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3JhdENon2YLMvdi4SYTbV49eq6GPdu8HcxWZibeBOCQucvXKzy8QRhx44RUuLR72iJ8&usqp=CAU"
+  },
+  {
+      "id": 2,
+      "title": "La piedra de luz",
+      "description": "Aventuras en la historia",
+      "code": "2",
+      "price": 50000,
+      "stock": 3,
+      "category": "Novela histórica",
+      "imagen": "https://m.media-amazon.com/images/I/51LJ7u9wa5L._SL500_.jpg"
+  },
+  {
+      "id": 3,
+      "title": "Ramsés: El hijo de la luz",
+      "description": "Aventuras en el antiguo Egipto",
+      "code": "3",
+      "price": 30000,
+      "stock": 4,
+      "category": "Novela histórica",
+      "imagen": "https://www.greenlibros.com/cdn/shop/products/e0454a12-60c8-40c0-84a0-81a2c7dde50c-53_19420366_0_christianjacqramsselhijodelalu_1024x1024.jpg?v=1688153410"
+  },
+  {
+      "id": 4,
+      "title": "El médico",
+      "description": "Travesía de un médico en la Edad Media",
+      "code": "4",
+      "price": 40000,
+      "stock": 10,
+      "category": "Novela histórica",
+      "imagen": "https://i.ebayimg.com/images/g/4HsAAOSw3MNkg6Id/s-l960.jpg"
+  },
+  {
+      "id": 5,
+      "title": "Los pilares de la Tierra",
+      "description": "Construcción de catedrales medievales",
+      "code": "5",
+      "price": 55000,
+      "stock": 15,
+      "category": "Novela histórica",
+      "imagen": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3ScjvrrGTMBykIWjUGXm_e_BDa_eyV2tKXNF7-OvNbny5v0bypJUU_i-pNyKXc4OHhqz4S1RDkQdKvC83f8cJBzJOh4C2oV_nr2I_PbIK&usqp=CAc"
+  },
+  {
+      "id": 6,
+      "title": "La Sombra del Viento",
+      "description": "Misterios literarios en Barcelona",
+      "code": "6",
+      "price": 45000,
+      "stock": 3,
+      "category": "Misterio",
+      "imagen": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmctzrSjg-TVuwsyeZQwy6A1ApSxewn3_WGe_jqX0OGLE_ZKM-MYojx7lvsqkNiGYRvrRA4-1rPzKLIliMI3xKPzGSbwefFJ9AWg2oV8-FCmblMIZowL8dOnaVSNlo40NqSf60qQY&usqp=CAc"
+  },
+  {
+      "id": 7,
+      "title": "El Hobbit",
+      "description": "Aventuras en la Tierra Media",
+      "code": "7",
+      "price": 32000,
+      "stock": 9,
+      "category": "Fantasía",
+      "imagen": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7WuGpf0-sId23rMRkbj8hsuaBtOD6lUDYE523m2qRTLCqTnAowSjWk-NsExpFE_rODrDs8XZbaPrkIr_0gMoWOxfC9AwqX-d3JZNQR7gUR7IQP_W2DRhh&usqp=CAc"
+  },
+  {
+      "id": 8,
+      "title": "El nombre del viento",
+      "description": "Historia de un músico legendario",
+      "code": "8",
+      "price": 48000,
+      "stock": 6,
+      "category": "Fantasía épica",
+      "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/fa/3c/fa3cd0450f8f59f3e4dcf35b4e0f8b71.jpg"
+  },
+  {
+      "id": 9,
+      "title": "Cazadores de sombras: Ciudad de hueso",
+      "description": "Mundo de sombras y demonios",
+      "code": "9",
+      "price": 53000,
+      "stock": 8,
+      "category": "Fantasía urbana",
+      "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/b5/e4/b5e4f0f82c7df83d073462f6dea866ad.jpg"
+  },
+  {
+      "id": 10,
+      "title": "El cuento de la criada",
+      "description": "Distopía de un régimen totalitario",
+      "code": "10",
+      "price": 57000,
+      "stock": 7,
+      "category": "Ciencia ficción",
+      "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/9e/de/9ede512123e015bb390a10ba35f8d138.jpg"
+  },
+  {
+      "id": 11,
+      "title": "Ankor",
+      "description": "Exploración filosófica",
+      "code": "11",
+      "price": 49000,
+      "stock": 19,
+      "category": "Filosofía",
+      "imagen": "https://m.media-amazon.com/images/I/61GuCAsNsdL._SY522_.jpg"
+  },
+  {
+      "id": 12,
+      "title": "El misterio de la casa encantada",
+      "description": "Investigación paranormal",
+      "code": "12",
+      "price": 25000,
+      "stock": 10,
+      "category": "Misterio",
+      "imagen": "https://m.media-amazon.com/images/I/41Kjz3hahTL._SX342_SY445_.jpg"
+  },
+  {
+      "id": 13,
+      "title": "Viaje a lo desconocido",
+      "description": "Exploración de lo misterioso",
+      "code": "13",
+      "price": 30000,
+      "stock": 8,
+      "category": "Aventura",
+      "imagen": "https://img2.rtve.es/p/105091/imgbackground/?h=320"
+  },
+  {
+      "id": 14,
+      "title": "El secreto del bosque",
+      "description": "Secretos en un bosque encantado",
+      "code": "14",
+      "price": 28000,
+      "stock": 15,
+      "category": "Fantasía",
+      "imagen": "https://m.media-amazon.com/images/I/51iGyZOSC-L._SX342_SY445_.jpg"
+  },
+  {
+      "id": 15,
+      "title": "Amor en París",
+      "description": "Romance en la Ciudad de la Luz",
+      "code": "15",
+      "price": 20000,
+      "stock": 20,
+      "category": "Romance",
+      "imagen": "https://m.media-amazon.com/images/I/41X3Ae9ipuL._SY445_SX342_.jpg"
+  },
+  {
+      "id": 16,
+      "title": "La máquina del tiempo",
+      "description": "Viajes temporales y futuros",
+      "code": "16",
+      "price": 35000,
+      "stock": 12,
+      "category": "Ciencia ficción",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_928037-MLA31564362463_072019-F.jpg"
+  },
+  {
+      "id": 17,
+      "title": "Aventuras en el espacio",
+      "description": "Exploración galáctica",
+      "code": "17",
+      "price": 37000,
+      "stock": 14,
+      "category": "Ciencia ficción",
+      "imagen": "https://m.media-amazon.com/images/I/41X3Ae9ipuL._SY445_SX342_.jpg"
+  }
+
+]
