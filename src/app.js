@@ -30,3 +30,5 @@ io.on('connection',socket=>{
      //   io.emit("messageLogs",{products})
     })
 })
+
+export { io };

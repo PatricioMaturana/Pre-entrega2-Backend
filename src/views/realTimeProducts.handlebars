@@ -1,7 +1,8 @@
+<body>
     <section class="contenedor">
         <div class="container">
-            <form class="input">
-                <h2>Listado de libros, favor ingreso otros o elimine</h2>
+            <form class="input" id="formCRUD">
+                <h2>Listado de libros, favor registre otros o elimine si lo requiere</h2>
                 <label for="code">Code:</label>
                 <input type="text" id="code" class="chico">
 
@@ -23,15 +24,13 @@
                 <label for="imagenURL">URL de Imagen:</label>
                 <input type="text" id="imagenURL" class="grande">
 
-                <button type="button" id="btnBuscar" class="btnBuscar">Agregar</button>
+                <button type="button" id="btnAgregar" class="btnAgregar">Agregar</button>
            </form>
-
-
             <div class="item-contenedor" id="card-group">
                 {{#each products}}
-                    <div class="row g-0">
+                    <div class="row g-0" id="product-{{this.id}}">
                         <div class="col-md-4">
-                            <img src="{{this.imagen}}" class="img-fluid rounded-start" width="80px" alt="...">
+                            <img src="{{this.imagen}}" class="img-fluid rounded-start" width="80px" alt="{{this.title}}">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -40,8 +39,8 @@
                                 <p class="card-text">Precio: {{this.price}}</p>  
                                 <p class="card-text">Code: {{this.code}}</p>    
                                 <p class="card-text">Stock: {{this.stock}}</p>
-                                <p class="card-text">Género: {{this.description}}</p>                                    
-                                <button type="button" id="{{this.code}}" class="boton">Eliminar</button>
+                                <p class="card-text">Descripción: {{this.description}}</p>                                    
+                                <button type="button" id="{{this.id}}" class="boton btn-eliminar">Eliminar</button>
                             </div>
                         </div>
                     </div>
@@ -49,5 +48,5 @@
             </div>
         </div>
     </section>
-<script src="socket.io/socket.io.js"></script>
-<script src="/js/index.js"></script>
+</body>
+</html>
