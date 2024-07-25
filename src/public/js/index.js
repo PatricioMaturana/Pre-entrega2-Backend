@@ -1,5 +1,4 @@
 const socket = io();
-
 document.getElementById('btnAgregar').addEventListener('click', () => 
     {
         const code = document.getElementById('code').value;

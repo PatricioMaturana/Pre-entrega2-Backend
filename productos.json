@@ -10,16 +10,6 @@
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3JhdENon2YLMvdi4SYTbV49eq6GPdu8HcxWZibeBOCQucvXKzy8QRhx44RUuLR72iJ8&usqp=CAU"
   },
   {
-    "id": 2,
-    "title": "La piedra de luz",
-    "description": "Aventuras en la historia",
-    "code": "2",
-    "price": 50000,
-    "stock": 3,
-    "category": "Novela histórica",
-    "imagen": "https://m.media-amazon.com/images/I/51LJ7u9wa5L._SL500_.jpg"
-  },
-  {
     "id": 3,
     "title": "Ramsés: El hijo de la luz",
     "description": "Aventuras en el antiguo Egipto",
@@ -128,45 +118,5 @@
     "stock": 8,
     "category": "Aventura",
     "imagen": "https://img2.rtve.es/p/105091/imgbackground/?h=320"
-  },
-  {
-    "id": 14,
-    "title": "El secreto del bosque",
-    "description": "Secretos en un bosque encantado",
-    "code": "14",
-    "price": 28000,
-    "stock": 15,
-    "category": "Fantasía",
-    "imagen": "https://m.media-amazon.com/images/I/51iGyZOSC-L._SX342_SY445_.jpg"
-  },
-  {
-    "id": 15,
-    "title": "Amor en París",
-    "description": "Romance en la Ciudad de la Luz",
-    "code": "15",
-    "price": 20000,
-    "stock": 20,
-    "category": "Romance",
-    "imagen": "https://m.media-amazon.com/images/I/41X3Ae9ipuL._SY445_SX342_.jpg"
-  },
-  {
-    "id": 16,
-    "title": "La máquina del tiempo",
-    "description": "Viajes temporales y futuros",
-    "code": "16",
-    "price": 35000,
-    "stock": 12,
-    "category": "Ciencia ficción",
-    "imagen": "https://http2.mlstatic.com/D_NQ_NP_928037-MLA31564362463_072019-F.jpg"
-  },
-  {
-    "id": 17,
-    "title": "Aventuras en el espacio",
-    "description": "Exploración galáctica",
-    "code": "17",
-    "price": 37000,
-    "stock": 14,
-    "category": "Ciencia ficción",
-    "imagen": "https://m.media-amazon.com/images/I/41X3Ae9ipuL._SY445_SX342_.jpg"
   }
 ]
